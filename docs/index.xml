@@ -12,10 +12,56 @@
     
     <item>
       <title></title>
-      <link>https://jaswine.com/docs/git/docs/base/</link>
+      <link>https://jaswine.com/docs/git/docs/base/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jaswine.com/docs/git/docs/base/</guid>
+      <guid>https://jaswine.com/docs/git/docs/base/base/</guid>
+      <description> 基础操作 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/git/docs/base/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/git/docs/base/install/</guid>
+      <description> Git安装 🔗Git安装脚本
+下载Git客户端 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/git/docs/example/back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/git/docs/example/back/</guid>
+      <description> 版本回退 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/git/docs/gui/fork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/git/docs/gui/fork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/git/docs/gui/idea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/git/docs/gui/idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/git/docs/gui/sourcetree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/git/docs/gui/sourcetree/</guid>
       <description></description>
     </item>
     
